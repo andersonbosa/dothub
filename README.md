@@ -12,7 +12,8 @@
     <a href="#technologies">Technologies</a> •
     <a href="#contribution">Contribution</a> •
     <a href="#author">Author</a> •
-    <a href="#license">License</a>
+    <a href="#license">License</a> •
+    <a href="#statistics">Statistics</a>
   </p>
 </section>
 
@@ -48,8 +49,23 @@ This is a collection of some sample models for you to use in your projects. Amon
 
 <h2 id="author">👨‍💻 Author</h2>
 
-[@andersonbosa](https://github.com/andersonbosa)
+* [@andersonbosa](https://github.com/andersonbosa)
 
 <h2 id="license"> 📝 License</h2>
 
 This project is under the MIT license.
+
+<details open>
+  <summary>
+    <h2 id="statistics">📊 Statistics </h2>
+  </summary>
+  
+  <h4> Stargazers </h4>
+
+  [![Stargazers](https://reporoster.com/stars/andersonbosa/dothub)](https://github.com/andersonbosa/dothub/stargazers)
+
+  <h4> Forkers </h4>
+
+  [![Forkers](https://reporoster.com/forks/andersonbosa/dothub)](https://github.com/andersonbosa/dothub/network/members)
+  
+</details>
