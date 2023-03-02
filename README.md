@@ -61,11 +61,13 @@ This project is under the MIT license.
   </summary>
   
   <h4> Stargazers </h4>
-
-  [![Stargazers](https://reporoster.com/stars/andersonbosa/dothub)](https://github.com/andersonbosa/dothub/stargazers)
+  <a href="https://github.com/andersonbosa/dothub/stargazers">
+    <img src="https://reporoster.com/stars/andersonbosa/dothub" alt="Stargazers" title="Stargazers" />
+  </a>
 
   <h4> Forkers </h4>
+  <a href="https://github.com/andersonbosa/dothub/network/members">
+    <img src="https://reporoster.com/forks/andersonbosa/dothub" alt="Forkers" title="Forkers" />
+  </a>
 
-  [![Forkers](https://reporoster.com/forks/andersonbosa/dothub)](https://github.com/andersonbosa/dothub/network/members)
-  
 </details>
