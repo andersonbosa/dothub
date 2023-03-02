@@ -1,7 +1,8 @@
 <section align="center">
 
-  ![Banner](docs/banner.svg)
+  <img src="docs/banner.svg" title="Project banner" alt="Project banner" />
 
+  <br>
   <br>
 
   <!-- badges -->
