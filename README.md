@@ -71,3 +71,10 @@ This project is under the MIT license.
   </a>
 
 </details>
+
+---
+
+<h4>  
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/dothub?style=social">
+  | Did you like the repository? Give it a star! 😁
+</h4>
