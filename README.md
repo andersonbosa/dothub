@@ -55,7 +55,7 @@ This is a collection of some sample models for you to use in your projects. Amon
 
 This project is under the MIT license.
 
-<details open>
+<details>
   <summary>
     <h2 id="statistics">📊 Statistics </h2>
   </summary>
