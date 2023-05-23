@@ -12,8 +12,7 @@
     <a href="#technologies">Technologies</a> •
     <a href="#contribution">Contribution</a> •
     <a href="#author">Author</a> •
-    <a href="#license">License</a> •
-    <a href="#statistics">Statistics</a>
+    <a href="#license">License</a>
   </p>
 </section>
 
