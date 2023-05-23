@@ -55,23 +55,6 @@ This is a collection of some sample models for you to use in your projects. Amon
 
 This project is under the MIT license.
 
-<details>
-  <summary>
-    <h2 id="statistics">📊 Statistics </h2>
-  </summary>
-  
-  <h4> Stargazers </h4>
-  <a href="https://github.com/andersonbosa/dothub/stargazers">
-    <img src="https://reporoster.com/stars/andersonbosa/dothub" alt="Stargazers" title="Stargazers" />
-  </a>
-
-  <h4> Forkers </h4>
-  <a href="https://github.com/andersonbosa/dothub/network/members">
-    <img src="https://reporoster.com/forks/andersonbosa/dothub" alt="Forkers" title="Forkers" />
-  </a>
-
-</details>
-
 ---
 
 <h4>  
