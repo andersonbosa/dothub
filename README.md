@@ -1,15 +1,17 @@
+
+[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-white.svg?style=flat)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![](https://img.shields.io/badge/made%20with-MAIN%20TECH-blue)](#)
+
+
+---
 <section align="center">
-
   <img src="docs/assets/images/banner.svg" title="Project banner" alt="Project banner" />
-
   <br>
   <br>
-
-  <!-- badges -->
 
   <p>
     <a href="#about">About</a> •
-    <a href="#technologies">Technologies</a> •
+    <a href="#installation">Installation</a> •
     <a href="#getting-started">Getting Started</a> •
     <a href="#contribution">Contribution</a> •
     <a href="#license">License</a>
@@ -19,34 +21,25 @@
 ---
 
 
-<h2 id="about">💬 About</h2>
+## About
 
-This is a collection of some sample models for you to use in your projects. Among them are, for example:
+It is a repository that aims to be an example of good practices in the software organization, their documentation and auxiliary tools.
+
+Here you also found a collection of some sample models for you to use in your projects. Among them are, for example:
 
 * Github templates
 * Github workflows
   * Application security testing samples
-
-To use the template, check some of the validations to be made in [template-checklist.md](docs/template-checklist.md)
-
-
-<h2 id="technologies"> 🛠️ Technologies</h2>
-
-* [Markdown](https://www.markdownguide.org/) - used in documentations
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG) - used in project banner
-* [XHTML](https://www.w3docs.com/learn-html/xhtml-extensible-hypertext-markup-language.html) - used in project banner to add our style
+  * Github Pages deploys
 
 
-<h2 id="getting-started"> 🚶 Getting Started</h2>
+
+## Getting Started
 
 * Checkout the [documentation](docs/getting-started.md)
 
-<h2>🚀 Deploy</h2>
 
-* Distributed here, in [Github](https://github.com/andersonbosa/dothub)
-
-
-<h2 id="contribution">🤝 Contribution</h2>
+## 🤝 Contribution
 
 <p>
   This project is for study purposes too, so please send me a message telling me what you are doing and why you are doing it, teach me what you know. All kinds of contributions are very welcome and appreciated!
@@ -54,9 +47,10 @@ To use the template, check some of the validations to be made in [template-check
 
 
 
-<h2 id="license"> 📝 License</h2>
+## 📝 License
 
-This project is under the MIT license.
+This project is under the [public domain](LICENSE.md) license.
+
 
 ---
 
@@ -64,6 +58,3 @@ This project is under the MIT license.
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/andersonbosa/dothub?style=social">
   | Did you like the repository? Give it a star! 😁
 </h4>
-
-
-<!-- Links -->
