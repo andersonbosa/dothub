@@ -41,9 +41,7 @@ Here you also found a collection of some sample models for you to use in your pr
 
 ## 🤝 Contribution
 
-<p>
-  This project is for study purposes too, so please send me a message telling me what you are doing and why you are doing it, teach me what you know. All kinds of contributions are very welcome and appreciated!
-</p>
+This project is for study purposes too, so please send me a message telling me what you are doing and why you are doing it, teach me what you know. All kinds of contributions are very welcome and appreciated!
 
 
 
