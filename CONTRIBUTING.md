@@ -6,6 +6,12 @@ We welcome all kinds of contributions, including bug reports, feature requests, 
 
 To make the process as smooth as possible, please follow the guidelines below.
 
+* [How to Contribute](#how-to-contribute)
+* [Code Style and Guidelines](#code-style-and-guidelines)
+* [Reporting Issues](#reporting-issues)
+* [Feedback and Questions](#feedback-and-questions)
+* [License](#license)
+
 
 ## How to Contribute
 
@@ -63,7 +69,7 @@ We value your feedback and are here to help. If you have any questions or need a
 
 # License
 
-By contributing to this project, you agree that your contributions will be licensed under the Unlicense.
+By contributing to this project, you agree that your contributions will be licensed under the [Public Domain license](LICENSE.md).
 
 
 ---

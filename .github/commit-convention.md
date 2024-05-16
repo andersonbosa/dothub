@@ -4,7 +4,19 @@
 
 * TODO: automate this verification (hint: [vitecamp do that](https://github.com/nekobc1998923/vitecamp/blob/5e53d9959b195e76484857841619ea04117849c0/.commitlintrc.js#L2))
 
-#### TL;DR:
+* [TL;DR:](#tldr)
+  * [Examples](#examples)
+* [Full Message Format](#full-message-format)
+* [Semantic Explanation](#semantic-explanation)
+  * [Revert](#revert)
+  * [Type](#type)
+  * [Scope](#scope)
+  * [Subject](#subject)
+  * [Body](#body)
+  * [Footer](#footer)
+
+
+## TL;DR:
 
 Messages must be matched by the following regex:
 
@@ -12,7 +24,7 @@ Messages must be matched by the following regex:
 /^(revert: )?(feat|fix|docs|style|refactor|perf|test|workflow|build|ci|chore|types|wip): .{1,50}/;
 ```
 
-#### Examples
+### Examples
 
 Appears under "Features" header, `dev` subheader:
 
@@ -44,7 +56,7 @@ revert: feat(compiler): add 'comments' option
 This reverts commit 667ecc1654a317a13331b17617d973392f415f02.
 ```
 
-### Full Message Format
+## Full Message Format
 
 A commit message consists of a **header**, **body** and **footer**. The header has a **type**, **scope** and **subject**:
 
@@ -57,6 +69,8 @@ A commit message consists of a **header**, **body** and **footer**. The header h
 ```
 
 The **header** is mandatory and the **scope** of the header is optional.
+
+## Semantic Explanation
 
 ### Revert
 
