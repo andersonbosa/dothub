@@ -4,7 +4,6 @@
 ##### Table of contents
 
 * [docs/getting-started.md](#docsgetting-startedmd)
-        * [Table of contents](#table-of-contents)
   * [Instalation](#instalation)
   * [Usage](#usage)
   * [FAQ](#faq)
